@@ -1,0 +1,37 @@
+#cím{
+    text-align: center;
+}
+ 
+body{
+    background-color: #DDFFDD;
+    width: 700px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+ 
+li{
+    text-decoration: none;
+}
+ 
+#Zebegény{
+    display: flex;
+    float: right;
+}
+ 
+#Nagybörzsöny{
+    display: flex;
+    float: right;
+}
+ 
+#Kemence{
+    display: flex;
+    float: right;
+}
+ 
+#borzsony{
+    text-align: center;
+}
+ 
+img{
+    width: 150px;
+}
